@@ -1,6 +1,6 @@
 # Misc
 #matplotlib
-numpy==1.14.5
+numpy==1.22.0
 statsmodels==0.8.0
 scipy
 pandas==0.20.3
